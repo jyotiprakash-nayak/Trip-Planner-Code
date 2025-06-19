@@ -143,7 +143,3 @@ if submitted:
 
     st.subheader("Here is your Trip Plan", anchor=False, divider="rainbow")
     st.markdown(result)
-= "8c2dc9311d670b0c0d5a1a4462e976c6bd2"
-= "2SVBG78Nldk1XXT2183a0f051b4ecc45094d04e1e8df"
-= "gsk_5f6cHHHOEMQRMtQJSFHKWGdyb3FYZoUtpfFLKhPH2jgru16"
-= "AIzaSyAtv2CleKxxGqvXmjALn24JI2uklX"
